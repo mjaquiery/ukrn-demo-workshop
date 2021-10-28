@@ -3,7 +3,7 @@ title: Video Lesson
 teaching: 15
 exercises: null
 duration: null
-summary: Laura tells us about the UKRN.
+summary: Laura tells us about the UKRN. Yay.
 questions: null
 objectives: null
 keypoints: null
